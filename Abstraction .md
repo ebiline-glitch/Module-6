@@ -52,7 +52,7 @@ print("Area of a rectangle:", rec.calculate_area())
 print("Area of a circle:", cir.calculate_area())
 ~~~
 ## Output
-![Uploading image.png…]()
+<img width="496" height="129" alt="image" src="https://github.com/user-attachments/assets/011bee43-70cf-43d9-aa31-82819c6fff09" />
 
 ## Result
 Thus, the program has been successfully executed
